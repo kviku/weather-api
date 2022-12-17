@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#firstc{
+    width:100vw;
+    height:40vh;
+   background-color: black ;
+   margin-top:0px;
+   margin: 0px;   
+}
+#firstc h1{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    margin: 0px;
+}
+#frm{
+    margin-top: 50px;
+}
+
+#firstc .dt1{
+    width:100px;
+    height:30px;
+    margin-left:48vw;
+    font-size: 18px;
+}
+#secondc h1{
+    color: rgb(15, 15, 15);
+    text-align: left;
+    font-size: 45px;
+    margin: 40px;
+}
+
+#table-body{
+    font-size: 50px;
+}
+#box1{
+    border:1px solid black;
+    margin:40px;
+}
+.mine{
+    display:flex;
+    font-size: 25px;
+    padding: 10px;
+}
+.sp{
+    margin-left: 150px;
+}
